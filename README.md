@@ -2,6 +2,9 @@
 
 This is a simple Space Shooter Game of 90's
 
+You can control your space shooter with Arrow keys and fire using Space bar. 
+You can earn as many point as you kill the space bugs 
+
 <img width="458" alt="Screenshot 2021-11-13 012649" src="https://user-images.githubusercontent.com/79797338/141600787-a0b424cc-b69a-49c6-909a-1a283807322f.png">
 <img width="455" alt="Screenshot 2021-11-13 012726" src="https://user-images.githubusercontent.com/79797338/141600791-2667806a-e582-49cf-a141-694c097bcd91.png">
 <img width="440" alt="Screenshot 2021-11-13 012802" src="https://user-images.githubusercontent.com/79797338/141600813-6180feca-e1bf-4814-a6e8-34deee6a6603.png">
